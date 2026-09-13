@@ -30,7 +30,7 @@ let b_king, b_queen, b_bishop, b_knight, b_rook, b_pawn
 let w_king, w_queen, w_bishop, w_knight, w_rook, w_pawn
 
 function preload() {
-  w_tile = loadImage('assets/w_tile.png')
+  w_tile = loadImage('assets/b_tile.png')
   b_tile = loadImage('assets/b_tile.png')
 
   b_king = loadImage('assets/b_king.png')
