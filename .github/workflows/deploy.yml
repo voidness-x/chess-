@@ -22,4 +22,4 @@ jobs:
           port: 22
           script: |
             echo "Successfully connected to server!"
-            ~/deploy.sh
+            sudo ~/deploy.sh
